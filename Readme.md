@@ -28,4 +28,4 @@
 ### Suzuki-Kasami's Algorithm
 
 #### View the comparison study of the two Algorithms
-	[Comparison Study](https://github.com/kakegupta/Distributed_System_Mutual_Exclusion/blob/master/Comparison_Study.pdf)
+[Comparison Study](https://github.com/kakegupta/Distributed_System_Mutual_Exclusion/blob/master/Comparison_Study.pdf)

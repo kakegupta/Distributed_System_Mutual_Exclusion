@@ -27,3 +27,8 @@
 ### Raymond's Algorithms
 ### Suzuki-Kasami's Algorithm
 
+<object data="https://github.com/kakegupta/Distributed_System_Mutual_Exclusion/blob/master/Comparison_Study.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/kakegupta/Distributed_System_Mutual_Exclusion/blob/master/Comparison_Study.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/kakegupta/Distributed_System_Mutual_Exclusion/blob/master/Comparison_Study.pdf">Download Comparison Study</a>.</p>
+    </embed>
+</object>

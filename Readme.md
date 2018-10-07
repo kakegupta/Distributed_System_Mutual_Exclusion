@@ -4,10 +4,10 @@
 1. Compile the code using java 8 compiler and build a jar
 2. To run the code put a "dsConfig" file in the same directory as the executable and run the following command
 ###### For coordinator process
-	**java Dproc -c**
+	java Dproc -c
 
 ###### For registering processes
-	**java Dproc**
+	java Dproc
 
 ### Sample dsConfig file
 	COORDINATOR dc01
